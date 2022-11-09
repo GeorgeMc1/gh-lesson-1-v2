@@ -44,17 +44,16 @@
 .container-middle-upper {
     height: 30vh;
     display: flex;
-    /* flex-direction: column; */
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
 }
 
 .container-img {
-    width: 30vw;
+    width: 300px;
 }
 
 .container-text {
-    width: 30vw;
+    width: 300px;
     margin-left: 10px;
 }
 
