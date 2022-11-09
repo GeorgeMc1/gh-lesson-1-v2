@@ -97,8 +97,13 @@ footer {
 
 .ul-nav-bottom {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
+}
+
+.li-menu-bottom{
+    list-style: none;
+    margin: 0 30px;
 }
 
 .li-menu-bottom:hover {
